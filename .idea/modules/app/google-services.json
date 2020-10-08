@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208363821971",
+    "firebase_url": "https://simplemsg-d9595.firebaseio.com",
+    "project_id": "simplemsg-d9595",
+    "storage_bucket": "simplemsg-d9595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208363821971:android:122440339141bf2b25a666",
+        "android_client_info": {
+          "package_name": "com.example.simplemsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208363821971-n0hml6ftcvgutjfdjeqrmj14njo306hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplemsg",
+            "certificate_hash": "c0b8b467ca90b571ad902c3bf37300459a48f24d"
+          }
+        },
+        {
+          "client_id": "208363821971-ojl2onbc75bbekj6irqlrvggnhpoqrmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFBHHTYfMQ0pra7ivYtgJ_rzAvGYv0Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208363821971-ojl2onbc75bbekj6irqlrvggnhpoqrmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
