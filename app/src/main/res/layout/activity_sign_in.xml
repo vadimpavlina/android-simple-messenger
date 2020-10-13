@@ -16,9 +16,12 @@
 
     <EditText
         android:id="@+id/emailEditText"
+        android:drawableLeft="@drawable/ic_person_outline_black_24dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
         android:hint="Your Email"
         android:inputType="textEmailAddress"
         android:singleLine="false" />
@@ -26,25 +29,34 @@
     <EditText
         android:layout_marginTop="8dp"
         android:hint="Your Password"
+        android:drawableLeft="@drawable/ic_password_outline_black_24dp"
         android:inputType="textPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
         android:id="@+id/passwordEditText"/>
 
     <EditText
         android:layout_marginTop="8dp"
         android:hint="Confirm Password"
+        android:drawableLeft="@drawable/ic_password_outline_black_24dp"
         android:inputType="textPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
         android:id="@+id/repeatPasswordEditText"/>
 
     <EditText
         android:layout_marginTop="8dp"
         android:hint="Your Name"
+        android:drawableLeft="@drawable/ic_person_outline_black_24dp"
         android:inputType="textPersonName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
         android:id="@+id/nameEditText"/>
 
     <Button
